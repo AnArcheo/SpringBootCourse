@@ -1,4 +1,4 @@
 # SpringBootCourse
-Spring5 Boot Course, Part 1
+Spring5 Boot Course - Book Repository
 
-This a simple learning project of Book Repository App created using Java 11, Spring Boot and Maven
+This a simple project of Book Repository App created using Java 11, Spring Boot and Maven
